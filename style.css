@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+h1 {
+	font-family: "Gill Sans", sans-serif;
+	font-size: 54px;
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+
+h2 {
+	font-family: "Gill Sans", sans-serif;
+	color:#5F6A6A; 
+	text-align: center;
+	margin: 0;
+}
+
+h3 {
+	color:#F39C12;   
+	font-size:42px;   
+	text-align: center;
+	margin: 0;
+}
+
+p {
+	font-family: "Gill Sans", sans-serif;
+	color:#000000;   
+	text-align: center;
+}
+
+section {
+	background-color: white;
+	width: 90%;
+	padding: 30px;   
+	margin: 15px auto;   
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+	margin: 10px auto;  
+	
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
